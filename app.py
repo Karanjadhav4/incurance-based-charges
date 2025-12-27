@@ -163,7 +163,7 @@ st.sidebar.write("👑 Developed by **Karan Jadhav**")
 # INPUT FORM (inside card)
 # =============================
 with st.container():
-    st.markdown('<div class="card">', unsafe_allow_html=True)
+    #st.markdown('<div class="card">', unsafe_allow_html=True)
 
     col1, col2 = st.columns(2)
 
